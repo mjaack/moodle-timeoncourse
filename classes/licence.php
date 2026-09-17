@@ -33,7 +33,7 @@ namespace report_timeoncourse;
  */
 class licence {
     /** @var string Verification endpoint. */
-    public const ENDPOINT = 'https://edgethirteen.com/api/tools/timeoncourse/verify-license';
+    public const ENDPOINT = 'https://www.edgethirteen.com/api/tools/timeoncourse/verify-license';
 
     /** @var int Re-check this often. */
     public const RECHECK = 3 * DAYSECS;
